@@ -1,0 +1,11 @@
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\obj\Debug\WinFormAct4.csproj.AssemblyReference.cache
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\obj\Debug\WinFormAct4.csproj.SuggestedBindingRedirects.cache
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\obj\Debug\WinFormAct4.Form1.resources
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\obj\Debug\WinFormAct4.Properties.Resources.resources
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\obj\Debug\WinFormAct4.csproj.GenerateResource.cache
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\obj\Debug\WinFormAct4.csproj.CoreCompileInputs.cache
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\bin\Debug\WinFormAct4.exe.config
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\bin\Debug\WinFormAct4.exe
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\bin\Debug\WinFormAct4.pdb
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\obj\Debug\WinFormAct4.exe
+C:\Users\cory_\Documents\git\CST-150\WinForm\WinFormAct4\obj\Debug\WinFormAct4.pdb
